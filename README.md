@@ -1,0 +1,2 @@
+# GitHubCloneProject
+Git clone practise
