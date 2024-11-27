@@ -1,2 +1,1 @@
-# GitHubCloneProject
-Git clone practise
+This is the description of my repo
